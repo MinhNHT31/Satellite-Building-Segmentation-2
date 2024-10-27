@@ -18,7 +18,7 @@ This project is implemented using **Google Colab Pro**, providing an efficient a
 ## Colab Notebook
 The project is hosted on Google Colab. You can access the notebook using the following link:
 
-[Open Google Colab Notebook]([https://colab.research.google.com/drive/1n60-gREYcK7_L2zncz9Q-BF74rxOOe5n?usp=sharing]) 📒
+[Open Google Colab Notebook](https://colab.research.google.com/drive/1n60-gREYcK7_L2zncz9Q-BF74rxOOe5n?usp=sharing) 📒
 
 ## Installation
 To run this project, follow these steps in the Google Colab notebook:
