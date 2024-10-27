@@ -1,1 +1,1 @@
-# Satellite-Building-Segmentation-2
+# Satellite-Building-Segmentation
