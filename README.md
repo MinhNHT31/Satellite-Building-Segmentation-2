@@ -10,15 +10,15 @@ This project implements building segmentation using two popular deep learning mo
 ## Dataset
 The dataset used in this project consists of satellite images from **Vietnam**. The images have been annotated and are publicly available on [Roboflow](https://roboflow.com/). The dataset is formatted for easy integration into deep learning workflows, making it suitable for training and evaluating the segmentation models. 📷
 
+![Screenshot 2024-10-27 171538](https://github.com/user-attachments/assets/dd0183da-4a09-4a47-af65-a2f5b26c9e93)
+
 ## Environment
 This project is implemented using **Google Colab Pro**, providing an efficient and accessible environment for training deep learning models with GPU acceleration. 🚀
 
 ## Colab Notebook
 The project is hosted on Google Colab. You can access the notebook using the following link:
 
-[Open Google Colab Notebook]([https://colab.research.google.com/drive/your_notebook_link](https://colab.research.google.com/drive/1n60-gREYcK7_L2zncz9Q-BF74rxOOe5n?usp=sharing)) 📒
-
-Make sure to replace `your_notebook_link` with the actual link to your Google Colab notebook.
+[Open Google Colab Notebook]([https://colab.research.google.com/drive/1n60-gREYcK7_L2zncz9Q-BF74rxOOe5n?usp=sharing]) 📒
 
 ## Installation
 To run this project, follow these steps in the Google Colab notebook:
@@ -29,7 +29,11 @@ To run this project, follow these steps in the Google Colab notebook:
 5. **Evaluate the Models**: Run the evaluation section to assess the performance of both models on the test set. 🔍
 
 ## Results
-The project aims to achieve high accuracy in segmenting buildings from satellite images, with results visualized in the notebook. You can compare the outputs of both models to determine which architecture performs better on the given dataset. 📊
+### Test dataset
+![Screenshot 2024-10-27 171603](https://github.com/user-attachments/assets/162044ee-ba6a-4341-81b0-14e1cedd4320)
+### Real-world dataset
+![Screenshot 2024-10-27 171457](https://github.com/user-attachments/assets/3da2e013-d4d4-43e5-8629-4eab9b038124)
+
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request. 🤝
